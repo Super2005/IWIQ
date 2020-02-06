@@ -1,5 +1,5 @@
 # IWIQ
-My project, IWIQ Bank (Russian)
+My project, IWIQ Bank 0.2.2 (Russian)
 
 Rus:
  
